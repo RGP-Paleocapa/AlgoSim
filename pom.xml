@@ -18,7 +18,7 @@
         <javafx.module.path>${java.home}/lib</javafx.module.path>
         
         <!-- Dependency versions -->
-        <javafx.version>22.0.1</javafx.version>
+        <javafx.version>24-ea+5</javafx.version>
         <jfreechart.version>1.5.4</jfreechart.version>
         <json.version>20240303</json.version>
         <exp4j.version>0.4.8</exp4j.version>
